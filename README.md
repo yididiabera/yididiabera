@@ -2,6 +2,12 @@
 
 I'm an aspiring **Full-Stack Developer** currently focused on mastering **JavaScript** and building dynamic, engaging web applications. I love exploring both frontend and backend development, experimenting with new ideas, and continuously leveling up my skills.
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Yididia=yididiabera&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=yididiabera&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?yididia=yididiabera&layout=compact&theme=radical)
+
 ---
 
 ### 🌱 Learning Journey
@@ -50,4 +56,3 @@ I tackle coding challenges regularly on platforms like LeetCode and GitHub. Here
 ---
 
 **Thanks for stopping by!** I'm excited to connect with fellow developers, share ideas, and work on exciting projects together.
-
