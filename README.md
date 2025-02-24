@@ -76,12 +76,11 @@ I regularly solve coding challenges to sharpen my problem-solving skills. Check 
 
 ---
 
-### 📫 **Connect With Me**  
+### 🌟 **Connect with Me**  
 <p align="center">
-  <a href="https://github.com/yididiabera"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/yididia-abera-a78276266/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yididia-abera-a78276266/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
 </p>
 
----
-
-🔥 **Thanks for stopping by!** I'm always open to **collaboration**, **learning opportunities**, and **new challenges**. 🚀
+🚀 **I'm always open to collaboration, learning opportunities, and new challenges. Let's connect!**  
