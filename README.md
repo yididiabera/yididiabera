@@ -11,7 +11,7 @@
 
 🔹 Passionate about **backend development**, **problem-solving**, and **building scalable applications**.  
 🔹 Enjoy working on **full-stack projects**, optimizing performance, and learning cutting-edge technologies.  
-🔹 Actively solving **Data Structures & Algorithms** challenges on LeetCode and Codeforces.  
+🔹 Actively solving **Data Structures & Algorithms** challenges on **LeetCode** and **Codeforces**.  
 
 ---
 
@@ -53,6 +53,18 @@
 
 ---
 
+### 🎯 **Competitive Programming**  
+I regularly solve coding challenges to sharpen my problem-solving skills. Check out my profiles:  
+
+<a href="https://leetcode.com/u/yididiabera/">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>  
+<a href="https://codeforces.com/profile/Jedidiah8">
+  <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
+</a>  
+
+---
+
 ### 📊 **GitHub Stats**  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yididiabera&show_icons=true&theme=radical" />
@@ -61,8 +73,6 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yididiabera&layout=compact&theme=radical" />
 </p>
-
-
 
 ---
 
