@@ -19,87 +19,42 @@
 
 ### 🚀 **Languages**  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/><br>  
-  **Python**  
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/><br>  
-  **C**  
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px"/><br>  
-  **C++**  
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/><br>  
-  **Java**  
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/><br>  
-  **JavaScript**  
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>  
+</p>  
+<p align="center"><b>Python &nbsp;&nbsp; C &nbsp;&nbsp; C++ &nbsp;&nbsp; Java &nbsp;&nbsp; JavaScript</b></p>
 
 ### 🌐 **Frontend**  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/><br>  
-  **HTML5**  
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/><br>  
-  **CSS3**  
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50px"/><br>  
-  **TailwindCSS**  
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/><br>  
-  **React.js**  
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50px"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/>  
+</p>  
+<p align="center"><b>HTML5 &nbsp;&nbsp; CSS3 &nbsp;&nbsp; TailwindCSS &nbsp;&nbsp; React.js</b></p>
 
 ### ⚙️ **Backend & Databases**  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"/><br>  
-  **Node.js**  
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px"/><br>  
-  **Express.js**  
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50px"/><br>  
-  **Flask**  
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px"/><br>  
-  **MongoDB**  
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"/><br>  
-  **MySQL**  
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50px"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"/>  
+</p>  
+<p align="center"><b>Node.js &nbsp;&nbsp; Express.js &nbsp;&nbsp; Flask &nbsp;&nbsp; MongoDB &nbsp;&nbsp; MySQL</b></p>
 
 ### 🛠 **Tools & Platforms**  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/><br>  
-  **Git**  
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px"/><br>  
-  **GitHub**  
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px"/><br>  
-  **Linux**  
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"/><br>  
-  **VS Code**  
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="50px"/><br>  
-  **Neovim**  
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="50px"/>  
+</p>  
+<p align="center"><b>Git &nbsp;&nbsp; GitHub &nbsp;&nbsp; Linux &nbsp;&nbsp; VS Code &nbsp;&nbsp; Neovim</b></p>
 
 ---
 
@@ -108,16 +63,13 @@ I regularly solve coding challenges to sharpen my problem-solving skills. Check 
 
 <p align="center">
   <a href="https://leetcode.com/u/yididiabera/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50px"><br>  
-    **LeetCode**  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50px">
   </a>  
-</p>
-<p align="center">
   <a href="https://codeforces.com/profile/Jedidiah8">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Codeforces_logo.svg/1024px-Codeforces_logo.svg.png" width="50px"><br>  
-    **Codeforces**  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Codeforces_logo.svg/1024px-Codeforces_logo.svg.png" width="50px">
   </a>  
-</p>
+</p>  
+<p align="center"><b><a href="https://leetcode.com/u/yididiabera/">LeetCode</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="https://codeforces.com/profile/Jedidiah8">Codeforces</a></b></p>
 
 ---
 
