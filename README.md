@@ -19,13 +19,13 @@
 
 ### 🚀 **Languages**  
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>  
 </p>  
-<p align="center"><b>Python &nbsp;&nbsp; C &nbsp;&nbsp; C++ &nbsp;&nbsp; Java &nbsp;&nbsp; JavaScript</b></p>
+<p align="center"><b>JavaScript &nbsp;&nbsp Python &nbsp;&nbsp; C &nbsp;&nbsp; C++ &nbsp;&nbsp; Java &nbsp;&nbsp; </b></p>
 
 ### 🌐 **Frontend**  
 <p align="center">
