@@ -62,15 +62,19 @@
 I regularly solve coding challenges to sharpen my problem-solving skills. Check out my profiles:  
 
 <p align="center">
+  <!-- LeetCode Logo & Link -->
   <a href="https://leetcode.com/u/yididiabera/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50px">
   </a>  
-  <br> <!-- Moves Codeforces logo slightly up -->
+  <a href="https://leetcode.com/u/yididiabera/"><b>LeetCode</b></a>  
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Adds spacing between links -->
+  
+  <!-- Codeforces Logo & Link -->
   <a href="https://codeforces.com/profile/Jedidiah8">
     <img src="https://codeforces.org/s/16468/images/codeforces-sponsored-by-ton.png" width="50px">
   </a>  
-</p>  
-<p align="center"><b><a href="https://leetcode.com/u/yididiabera/">LeetCode</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="https://codeforces.com/profile/Jedidiah8">Codeforces</a></b></p>
+  <a href="https://codeforces.com/profile/Jedidiah8"><b>Codeforces</b></a>  
+</p>
 
 ---
 
