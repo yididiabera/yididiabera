@@ -66,7 +66,7 @@ I regularly solve coding challenges to sharpen my problem-solving skills. Check 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50px">
   </a>  
   <a href="https://codeforces.com/profile/Jedidiah8">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Codeforces_logo.svg/1024px-Codeforces_logo.svg.png" width="50px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-plain.svg" width="50px">
   </a>  
 </p>  
 <p align="center"><b><a href="https://leetcode.com/u/yididiabera/">LeetCode</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="https://codeforces.com/profile/Jedidiah8">Codeforces</a></b></p>
