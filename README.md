@@ -93,10 +93,32 @@ Currently, I am taking the **A2SV in-person course in Data Structures & Algorith
 ---
 
 ## 🌟 **Connect with Me**  
+
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/yididia-abera-a78276266/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>  
+  &nbsp;&nbsp;
+  
+  <!-- GitHub -->
+  <a href="https://github.com/yididiabera" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>  
+  &nbsp;&nbsp;
+  
+  <!-- Email -->
+  <a href="mailto:yididiabera87@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>  
+  &nbsp;&nbsp;
+  
+  <!-- Phone -->
+  <!-- 
+  <a href="tel:+251986173986">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
+  </a> -->
 </p>
 
-🚀 **I'm always open to collaboration, learning opportunities, and new challenges. Let's connect!**  
+🚀 **I'm always open to collaboration, learning opportunities, and new challenges. Let's connect!**
+
