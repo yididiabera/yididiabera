@@ -118,5 +118,5 @@ Currently, I am taking the **A2SV in-person course in Data Structures & Algorith
   </a> -->
 </p>
 
-🚀 **I'm always open to collaboration, learning opportunities, and new challenges. Let's connect!**
+🚀 **I'm always open to collaboration, learning opportunities, and new challenges. Let's connect!!**
 
