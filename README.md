@@ -59,7 +59,7 @@
 ---
 
 ## 🎯 **Competitive Programming**  
-I actively participate in **competitive programming** to enhance my **problem-solving skills, algorithmic thinking, and efficiency in coding under constraints**. I regularly tackle challenges on **LeetCode and Codeforces**, sharpening my **DSA expertise** and improving my coding speed.  
+I actively participate in **competitive programming** to enhance my **problem solving skills, algorithmic thinking, and efficiency in coding under constraints**. I regularly tackle challenges on **LeetCode and Codeforces**, sharpening my **DSA expertise** and improving my coding speed.  
 
 Currently, I am taking the **A2SV in-person course in Data Structures & Algorithms (DSA)**, where I solve complex problems, collaborate with peers, and refine my coding techniques to excel in high-level problem-solving.  
 
