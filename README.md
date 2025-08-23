@@ -7,9 +7,9 @@
 ---
 
 ## 🚀 **About Me**
-🎓 **Third-year Computer Science student** | 💻 **ALX Software Engineering Graduate** | 🏆 **A2SV DSA Trainee**  
+🎓 **Third-year Computer Science student** | 💻 **ALX Software Engineering Graduate** | 🏆 **A2SV DSA Trainee** | **AI/ML(*new)** 
 
-🔹 Passionate about **backend development**, **problem-solving**, and **building scalable applications**.  
+🔹 Passionate about **frontend development**, **backend development**, **problem-solving**, and **building scalable applications**.  
 🔹 Enjoy working on **full-stack projects**, optimizing performance, and learning cutting-edge technologies.  
 🔹 Actively solving **Data Structures & Algorithms** challenges on **LeetCode** and **Codeforces**.  
 
