@@ -1,122 +1,81 @@
-<h1 align="center">Hi there, I'm Yididia Abera 👋</h1>  
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&width=435&lines=Full-Stack+Developer;Backend+Engineer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</p>
-
----
-
-## 🚀 **About Me**
-🎓 **Third-year Computer Science student** | 💻 **ALX Software Engineering Graduate** | 🏆 **A2SV DSA Trainee** | **AI/ML(*new)** 
-
-🔹 Passionate about **frontend development**, **backend development**, **problem-solving**, and **building scalable applications**.  
-🔹 Enjoy working on **full-stack projects**, optimizing performance, and learning cutting-edge technologies.  
-🔹 Actively solving **Data Structures & Algorithms** challenges on **LeetCode** and **Codeforces**.  
-
----
-
-## 🛠 **Tech Stack**  
-
-### 🚀 **Languages**  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>  
-</p>  
-<p align="center"><b>JavaScript &nbsp;&nbsp Python &nbsp;&nbsp; C &nbsp;&nbsp; C++ &nbsp;&nbsp; Java &nbsp;&nbsp; </b></p>
-
-### 🌐 **Frontend**  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50px"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/>  
-</p>  
-<p align="center"><b>HTML5 &nbsp;&nbsp; CSS3 &nbsp;&nbsp; TailwindCSS &nbsp;&nbsp; React.js</b></p>
-
-### ⚙️ **Backend & Databases**  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50px"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"/>  
-</p>  
-<p align="center"><b>Node.js &nbsp;&nbsp; Express.js &nbsp;&nbsp; Flask &nbsp;&nbsp; MongoDB &nbsp;&nbsp; MySQL</b></p>
-
-### 🛠 **Tools & Platforms**  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="50px"/>  
-</p>  
-<p align="center"><b>Git &nbsp;&nbsp; GitHub &nbsp;&nbsp; Linux &nbsp;&nbsp; VS Code &nbsp;&nbsp; Neovim</b></p>
-
----
-
-## 🎯 **Competitive Programming**  
-I actively participate in **competitive programming** to enhance my **problem solving skills, algorithmic thinking, and efficiency in coding under constraints**. I regularly tackle challenges on **LeetCode and Codeforces**, sharpening my **DSA expertise** and improving my coding speed.  
-
-Currently, I am taking the **A2SV in-person course in Data Structures & Algorithms (DSA)**, where I solve complex problems, collaborate with peers, and refine my coding techniques to excel in high-level problem-solving.  
-
-<p align="center">
-  <!-- LeetCode Logo & Link -->
-  <a href="https://leetcode.com/u/yididiabera/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50px">
-  </a>  
-  <a href="https://leetcode.com/u/yididiabera/"><b>LeetCode</b></a>  
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Adds spacing between links -->
-  
-  <!-- Codeforces Logo & Link -->
-  <a href="https://codeforces.com/profile/Jedidiah8">
-    <img src="https://codeforces.org/s/16468/images/codeforces-sponsored-by-ton.png" width="50px">
-  </a>  
-  <a href="https://codeforces.com/profile/Jedidiah8"><b>Codeforces</b></a>  
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Yididia%20Abera&fontColor=c9d1d9&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=16&descColor=8b949e&descAlignY=55" />
 
 
----
+<div align="center">
 
-## 📊 **GitHub Stats**  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yididiabera&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=yididiabera&theme=radical" />
-</p>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yididiabera&layout=compact&theme=radical" />
-</p>
+<a href="https://linkedin.com/in/yididiabera">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/yididiabera">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:yididiabera87@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=yididiabera&style=flat-square&color=161b22&label=Profile+Views" />
 
----
+<br><br>
 
-## 🌟 **Connect with Me**  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=14&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=50&lines=building+scalable+solutions+%C2%B7+architecting+intelligent+systems" />
 
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/yididia-abera-a78276266/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>  
-  &nbsp;&nbsp;
-  
-  <a href="https://github.com/yididiabera" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>  
-  &nbsp;&nbsp;
-  
-  <a href="mailto:yididiabera87@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>  
-  &nbsp;&nbsp;
-  
-  <!-- Phone -->
-  <!-- 
-  <a href="tel:+251986173986">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
-  </a> -->
-</p>
+</div>
 
-🚀 **I'm always open to collaboration, learning opportunities, and new challenges. Let's connect!!**
+<div align="center">
 
+> *"Building scalable systems and intelligent applications that solve real-world problems."*
+
+<br>
+
+<img src="https://img.shields.io/badge/🎓_Education-CS_@_Addis_Ababa_University-0d1117?style=flat-square" />
+<img src="https://img.shields.io/badge/🎯_Focus-Full--Stack,_AI/ML,_System_Design-0d1117?style=flat-square" />
+<img src="https://img.shields.io/badge/📍_Location-Addis_Ababa,_Ethiopia-0d1117?style=flat-square" />
+
+</div>
+
+<h3 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20" />
+  &nbsp;Tech Stack
+</h3>
+
+<div align="center">
+
+| | |
+|---|---|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript) ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python) ![Java](https://img.shields.io/badge/-Java-0d1117?style=flat-square&logo=openjdk) ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-0d1117?style=flat-square&logo=c%2B%2B) ![Go](https://img.shields.io/badge/-Go-0d1117?style=flat-square&logo=go) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-0d1117?style=flat-square&logo=next.js) ![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6) ![Flutter](https://img.shields.io/badge/-Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569B) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=flat-square&logo=node.js) ![Express](https://img.shields.io/badge/-Express-0d1117?style=flat-square&logo=express) ![Spring](https://img.shields.io/badge/-Spring_Boot-0d1117?style=flat-square&logo=springboot) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=flat-square&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1) ![SQLite](https://img.shields.io/badge/-SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003B57) |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git) ![Linux](https://img.shields.io/badge/-Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624) ![Postman](https://img.shields.io/badge/-Postman-0d1117?style=flat-square&logo=postman) ![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker) |
+| **AI / ML** | ![ML](https://img.shields.io/badge/-Machine_Learning-0d1117?style=flat-square&logo=tensorflow) ![LLMs](https://img.shields.io/badge/-LLMs-0d1117?style=flat-square&logo=openai) ![RAG](https://img.shields.io/badge/-RAG_Systems-0d1117?style=flat-square&logo=langchain) |
+
+</div>
+
+
+<h3 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQFODhk/giphy.gif" width="25" />
+  &nbsp;GitHub Analytics
+</h3>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yididiabera&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yididiabera&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=yididiabera&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Activity" />
+</div>
+
+<br>
+
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yididiabera/yididiabera/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yididiabera/yididiabera/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/yididiabera/yididiabera/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
