@@ -1,36 +1,58 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Yididia%20Abera&fontColor=c9d1d9&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=16&descColor=8b949e&descAlignY=55" />
+<div align="center">
+  <br>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=80&duration=4000&pause=3000&color=c9d1d9&center=true&vCenter=true&width=800&height=120&lines=Yididia+Abera;Yididia+Abera" alt="Yididia Abera" />
+  
+  <p style="color: #8b949e; font-size: 18px;">
+    <i>Software Developer &nbsp;•&nbsp; AI/ML Enthusiast</i>
+  </p>
+  <br>
+</div>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          SOCIAL LINKS                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<a href="https://linkedin.com/in/yididiabera">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/yididiabera">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:yididiabera87@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=yididiabera&style=flat-square&color=161b22&label=Profile+Views" />
+<a href="https://linkedin.com/in/yididiabera" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>&nbsp;
+<a href="https://github.com/yididiabera" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>&nbsp;
+<a href="mailto:yididiabera87@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 
 <br><br>
 
+<!-- Typing animation — slow, elegant, single line at a time -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=14&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=50&lines=building+scalable+solutions+%C2%B7+architecting+intelligent+systems" />
 
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          ABOUT                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-> *"Building scalable systems and intelligent applications that solve real-world problems."*
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=20&duration=4000&pause=2500&color=c9d1d9&center=true&vCenter=true&width=800&height=40&lines=%22Building+scalable+systems+and+intelligent+applications...%22;%22...that+solve+real-world+problems.%22" alt="Quote Animation" />
 
 <br>
 
-<img src="https://img.shields.io/badge/🎓_Education-CS_@_Addis_Ababa_University-0d1117?style=flat-square" />
-<img src="https://img.shields.io/badge/🎯_Focus-Full--Stack,_AI/ML,_System_Design-0d1117?style=flat-square" />
-<img src="https://img.shields.io/badge/📍_Location-Addis_Ababa,_Ethiopia-0d1117?style=flat-square" />
+<h2><strong>Full-Stack & AI/ML</strong></h2>
+<p style="color: #8b949e; font-size: 15px;">
+  Addis Ababa, Ethiopia
+</p>
 
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                     TECH STACK                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <h3 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20" />
@@ -50,6 +72,9 @@
 
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB ANALYTICS                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQFODhk/giphy.gif" width="25" />
@@ -70,12 +95,8 @@
 <br>
 
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yididiabera/yididiabera/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yididiabera/yididiabera/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/yididiabera/yididiabera/output/github-snake-dark.svg" />
-  </picture>
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                     FOOTER                                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
