@@ -47,7 +47,9 @@ I've worked with **SingularityNET** and **iCog Labs** on **multimodal RAG, AI ag
       <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
       <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
       <img src="https://img.shields.io/badge/Go-161B22?style=flat-square&logo=go&logoColor=00ADD8" alt="Go">
-      <p><sub>SQL · Java · C/C++</sub></p>
+      <img src="https://img.shields.io/badge/SQL-161B22?style=flat-square" alt="SQL">
+      <img src="https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java">
+      <img src="https://img.shields.io/badge/C%2FC%2B%2B-161B22?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C and C++">
     </td>
     <td width="50%" valign="top">
       <h4>Frontend</h4>
@@ -72,7 +74,10 @@ I've worked with **SingularityNET** and **iCog Labs** on **multimodal RAG, AI ag
       <img src="https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=langchain&logoColor=1C3C3C" alt="LangChain">
       <img src="https://img.shields.io/badge/LangGraph-161B22?style=flat-square&logo=langgraph&logoColor=1C3C3C" alt="LangGraph">
       <img src="https://img.shields.io/badge/Gemini-161B22?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini">
-      <p><sub>OpenAI · RAG · NLP · Model fine-tuning</sub></p>
+      <img src="https://img.shields.io/badge/OpenAI-161B22?style=flat-square&logo=openai&logoColor=FFFFFF" alt="OpenAI">
+      <img src="https://img.shields.io/badge/RAG-161B22?style=flat-square" alt="RAG">
+      <img src="https://img.shields.io/badge/NLP-161B22?style=flat-square" alt="NLP">
+      <img src="https://img.shields.io/badge/Model_fine_tuning-161B22?style=flat-square" alt="Model fine-tuning">
     </td>
   </tr>
   <tr>
@@ -82,7 +87,10 @@ I've worked with **SingularityNET** and **iCog Labs** on **multimodal RAG, AI ag
       <img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB">
       <img src="https://img.shields.io/badge/Redis-161B22?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis">
       <img src="https://img.shields.io/badge/Neo4j-161B22?style=flat-square&logo=neo4j&logoColor=4581C3" alt="Neo4j">
-      <p><sub>Chroma · Pinecone · MySQL · SQLite</sub></p>
+      <img src="https://img.shields.io/badge/Chroma-161B22?style=flat-square&logo=chroma&logoColor=FF6F61" alt="Chroma">
+      <img src="https://img.shields.io/badge/Pinecone-161B22?style=flat-square&logo=pinecone&logoColor=00BFA5" alt="Pinecone">
+      <img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL">
+      <img src="https://img.shields.io/badge/SQLite-161B22?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite">
     </td>
     <td width="50%" valign="top">
       <h4>Engineering &amp; Delivery</h4>
@@ -96,7 +104,10 @@ I've worked with **SingularityNET** and **iCog Labs** on **multimodal RAG, AI ag
 </table>
 
 <p align="center">
-  <sub>Analytics: BERTopic · SentenceTransformers · Streamlit · Plotly</sub>
+  <img src="https://img.shields.io/badge/BERTopic-161B22?style=flat-square" alt="BERTopic">
+  <img src="https://img.shields.io/badge/SentenceTransformers-161B22?style=flat-square" alt="SentenceTransformers">
+  <img src="https://img.shields.io/badge/Streamlit-161B22?style=flat-square&logo=streamlit&logoColor=FF4B4B" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Plotly-161B22?style=flat-square&logo=plotly&logoColor=3F4F75" alt="Plotly">
 </p>
 
 ### How I approach engineering
@@ -106,7 +117,6 @@ I start by understanding the users, goals, and constraints. Then I define a mana
 <details>
   <summary>GitHub activity</summary>
   <br>
-
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=yididiabera&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&hide_rank=true" width="450" alt="Yididia Abera's GitHub statistics">
   </div>
@@ -115,14 +125,11 @@ I start by understanding the users, goals, and constraints. Then I define a mana
 <br>
 
 <div align="center">
-  <b>Have an interesting problem to solve?</b>
-  <br>
-
+  <b>Have an interesting problem to solve?</b><br>
   <a href="mailto:yididiabera87@gmail.com">Email me</a>
   &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/yididiabera">Connect on LinkedIn</a>
 </div>
 
 <br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=65&section=footer" width="100%" alt="">
