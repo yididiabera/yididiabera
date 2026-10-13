@@ -35,7 +35,7 @@ I've worked with **SingularityNET** and **iCog Labs** on **multimodal RAG, AI ag
 - **AI & retrieval:** LLM integration, multimodal RAG, hybrid search, reranking, and agents that use tools to complete multi-step tasks.
 - **Machine learning:** NLP, recommendations, generative models, fine-tuning, and data preparation and evaluation pipelines.
 - **Full-stack applications:** Web interfaces, APIs, authentication, permissions, databases, and real-time features.
-- **Business systems:** Analytics dashboards, payments, ERP customization, and automation that reduces repetitive work.
+- **Business systems:** Analytics dashboards, payments, customizations, and automation that reduces repetitive work.
 
 ### Tech stack
 
